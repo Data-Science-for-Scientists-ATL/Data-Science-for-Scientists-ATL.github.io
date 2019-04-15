@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Data Science For Scientists ATL</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-01-29T00:00:00+01:00</updated><entry><title>Introduction to Reproducible Research Principles from Melinda Higgins</title><link href="/introduction-to-reproducible-research-principles-from-melinda-higgins.html" rel="alternate"></link><published>2019-01-29T00:00:00+01:00</published><updated>2019-01-29T00:00:00+01:00</updated><author><name>David Nicholson</name></author><id>tag:None,2019-01-29:/introduction-to-reproducible-research-principles-from-melinda-higgins.html</id><summary type="html">&lt;p&gt;For our first meeting of the year we were joined by 
+&lt;a href="http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=980"&gt;Melinda Higgins&lt;/a&gt;, senior biostatistician
+and associate research professor in Nursing at Emory.She gave the group an overview of the principles of reproducible research, 
+including some very interesting background that provided examples of why it is important.
+We can …&lt;/p&gt;</summary><content type="html">&lt;p&gt;For our first meeting of the year we were joined by 
+&lt;a href="http://www.nursing.emory.edu/faculty-and-research/directory/profile.html?id=980"&gt;Melinda Higgins&lt;/a&gt;, senior biostatistician
+and associate research professor in Nursing at Emory.She gave the group an overview of the principles of reproducible research, 
+including some very interesting background that provided examples of why it is important.
+We can all benefit from learning more about the papers she highlighted. Links to many of those papers and related writings 
+can be found in the very detailed timeline in a 
+&lt;a href="https://blogs.plos.org/absolutely-maybe/2016/12/05/reproducibility-crisis-timeline-milestones-in-tackling-research-reliability/"&gt;blog post&lt;/a&gt; 
+linked to in her &lt;a href="https://melindahiggins2000.github.io/EmoryDataScience_Jan2019/datascience.html#1"&gt;presentation&lt;/a&gt;.
+You can also check out some of the books she mentioned, 
+like &lt;a href="https://osf.io/s9tya/"&gt;"Implementing Reproducible Research" by Stodden et al.&lt;/a&gt;
+To hear Melinda walk through the history of reproducibility firsthand, watch this screencast she shared: 
+&lt;a href="https://youtu.be/jqOJKBHvDoI"&gt;https://youtu.be/jqOJKBHvDoI&lt;/a&gt;
+The screencast also includes her introduction and brief demo of tools for reproducible research, like R Markdown.&lt;/p&gt;
+&lt;p&gt;Now that Melinda's talk has you motivated to improve the reproducibility of your own research,
+check out her Coursera course that will walk you through how to do it: 
+&lt;a href="https://www.coursera.org/learn/reproducible-templates-analysis"&gt;https://www.coursera.org/learn/reproducible-templates-analysis&lt;/a&gt;
+You can find out more about Melinda at &lt;a href="https://melindahiggins.netlify.com/"&gt;her personal site&lt;/a&gt;,
+check out her projects on &lt;a href="https://github.com/melindahiggins2000"&gt;Github&lt;/a&gt;, 
+and follow her on &lt;a href="https://twitter.com/mhiggins2000"&gt;Twitter&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Web Scraping in R</title><link href="/web-scraping-in-r.html" rel="alternate"></link><published>2018-11-12T00:00:00+01:00</published><updated>2018-11-12T00:00:00+01:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-11-12:/web-scraping-in-r.html</id><summary type="html">&lt;p&gt;Continuing our streak of R-based meetings, this month we learned about
+scraping the web in R.&lt;br&gt;
+Our guest speaker was Steve Pittard, a lecturer in Biostatistics 
+and Bioinformatics at Emory, &lt;a href="https://www.linkedin.com/in/stephen-pittard-925645b6/"&gt;among other things&lt;/a&gt;.
+Steve helpfully shared a manuscript he's put together in Bookdown that
+walks us through the lessons he's …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Continuing our streak of R-based meetings, this month we learned about
+scraping the web in R.&lt;br&gt;
+Our guest speaker was Steve Pittard, a lecturer in Biostatistics 
+and Bioinformatics at Emory, &lt;a href="https://www.linkedin.com/in/stephen-pittard-925645b6/"&gt;among other things&lt;/a&gt;.
+Steve helpfully shared a manuscript he's put together in Bookdown that
+walks us through the lessons he's developed:&lt;br&gt;
+&lt;a href="https://steviep42.github.io/webscraping/book/"&gt;https://steviep42.github.io/webscraping/book/&lt;/a&gt;&lt;br&gt;
+Several group members commented on how the same sort of analyses he applied to posts scraped 
+from dialysis patient forums could be translated to other fields.
+Its not always clear how well the views presented in clinical literature 
+align with sentiments expressed by patients.&lt;br&gt;
+Thanks, Steve, you gave us plenty of food for thought!&lt;/p&gt;</content></entry><entry><title>Pseudoreplication: What It Is and How to Avoid It.</title><link href="/pseudoreplication-what-it-is-and-how-to-avoid-it.html" rel="alternate"></link><published>2018-10-15T00:00:00+02:00</published><updated>2018-10-15T00:00:00+02:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-10-15:/pseudoreplication-what-it-is-and-how-to-avoid-it.html</id><summary type="html">&lt;p&gt;For this meeting, our first as a group since being chartered by Laney 
+ Graduate School(!), Desiree DeLeon (Sanchez + Young labs) gave us 
+a hands-on tutorial about what pseudoreplication is and how to avoid it.&lt;br&gt;
+Check out her presentation here:&lt;br&gt;
+&lt;a href="https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication"&gt;https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication&lt;/a&gt;&lt;br&gt;
+Desiree also shared an excellent 
+&lt;a href="https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication/blob/master/Data_sci_pseudoreplication%20copy.Rmd"&gt;RMarkdown …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;For this meeting, our first as a group since being chartered by Laney 
+ Graduate School(!), Desiree DeLeon (Sanchez + Young labs) gave us 
+a hands-on tutorial about what pseudoreplication is and how to avoid it.&lt;br&gt;
+Check out her presentation here:&lt;br&gt;
+&lt;a href="https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication"&gt;https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication&lt;/a&gt;&lt;br&gt;
+Desiree also shared an excellent 
+&lt;a href="https://github.com/Data-Science-for-Scientists-ATL/Pseudoreplication/blob/master/Data_sci_pseudoreplication%20copy.Rmd"&gt;RMarkdown document&lt;/a&gt;
+she put together that walks you through examples of pseudoreplication and
+how to handle it statistically using R.&lt;/p&gt;</content></entry><entry><title>Biomedical Data Science -- Christian McDaniel and Andrew Durden from Quinn lab, UGA</title><link href="/biomedical-data-science-christian-mcdaniel-and-andrew-durden-from-quinn-lab-uga.html" rel="alternate"></link><published>2018-09-24T00:00:00+02:00</published><updated>2018-09-24T00:00:00+02:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-09-24:/biomedical-data-science-christian-mcdaniel-and-andrew-durden-from-quinn-lab-uga.html</id><summary type="html">&lt;p&gt;For this meeting, Christian McDaniel and Andrew Durden from
+&lt;a href="https://quinngroup.github.io/"&gt;Shannon Quinn's group&lt;/a&gt; at UGA made the 
+hike over to the ATL to talk with us about the projects they presented 
+at &lt;a href="https://scipy2018.scipy.org/ehome/index.php?eventid=299527&amp;amp;"&gt;SciPy 2018&lt;/a&gt;. &lt;/p&gt;
+&lt;h2&gt;"Developing an LSTM Pipeline for Accelerometer Data." Christian McDaniel&lt;/h2&gt;
+&lt;p&gt;Christian gave us the low-down on the pipeline …&lt;/p&gt;</summary><content type="html">&lt;p&gt;For this meeting, Christian McDaniel and Andrew Durden from
+&lt;a href="https://quinngroup.github.io/"&gt;Shannon Quinn's group&lt;/a&gt; at UGA made the 
+hike over to the ATL to talk with us about the projects they presented 
+at &lt;a href="https://scipy2018.scipy.org/ehome/index.php?eventid=299527&amp;amp;"&gt;SciPy 2018&lt;/a&gt;. &lt;/p&gt;
+&lt;h2&gt;"Developing an LSTM Pipeline for Accelerometer Data." Christian McDaniel&lt;/h2&gt;
+&lt;p&gt;Christian gave us the low-down on the pipeline he developed to benchmark
+recurrent neural networks that recognize different types of human activity 
+from accelerometer data recorded from cell phones.
+Check out the SciPy proceedings paper and code here:&lt;br&gt;
+&lt;a href="https://conference.scipy.org/proceedings/scipy2018/pdfs/christian_mcdaniel.pdf"&gt;https://conference.scipy.org/proceedings/scipy2018/pdfs/christian_mcdaniel.pdf&lt;/a&gt;&lt;br&gt;
+&lt;a href="https://github.com/xtianmcd/accelstm"&gt;https://github.com/xtianmcd/accelstm&lt;/a&gt;&lt;br&gt;
+Also check out the &lt;a href="https://github.com/Data-Science-for-Scientists-ATL/meeting-09-24/blob/master/accelstm/accelstm_qrg_presF18%20slides.pdf"&gt;presentation he shared with us&lt;/a&gt;
+for lots of helpful pointers to info, tutorials, etc. about machine learning,
+in particular about LSTMs and other types of recurrent neural networks.&lt;/p&gt;
+&lt;h2&gt;"Dynamic Social Network Modeling of Diffuse Subcellular Morphologies." Andrew Durden&lt;/h2&gt;
+&lt;p&gt;Andrew talked with us about how he's building tools to track changes 
+in sub-cellular structures that have until now been hard 
+to analyze because of their diffuse structure, such as mitochondria and actin.
+Their pipeline OrNET addresses this gap by leveraging the power of social network 
+analysis in combination with other tools from image analysis and 
+computer vision. You can read the Proceedings paper here:
+&lt;a href="https://conference.scipy.org/proceedings/scipy2018/pdfs/Andrew_Durden.pdf"&gt;https://conference.scipy.org/proceedings/scipy2018/pdfs/Andrew_Durden.pdf&lt;/a&gt;&lt;br&gt;
+And for some updates on how the work has progressed, 
+see &lt;a href="https://github.com/Data-Science-for-Scientists-ATL/meeting-09-24/blob/master/Ornet_slides/Dynamic%20Social%20Network%20Modeling%20of%20Diffuse%20Subcellular%20Morphologies.pdf"&gt;Andrew's presentation which he kindly shared&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Kaggle: The good, the bad and the code</title><link href="/kaggle-the-good-the-bad-and-the-code.html" rel="alternate"></link><published>2018-08-28T00:00:00+02:00</published><updated>2018-08-28T00:00:00+02:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-08-28:/kaggle-the-good-the-bad-and-the-code.html</id><summary type="html">&lt;p&gt;For our meeting on the 28th of August, one of our founding members, &lt;a href="https://www.linkedin.com/in/varun-saravanan-24b12b145/"&gt;Varun Saravanan&lt;/a&gt;, shared his Kaggle experience with us. I'll summarize &lt;a href="https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-08-28"&gt;his presentation&lt;/a&gt; here.&lt;/p&gt;
+&lt;h2&gt;What is Kaggle?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt; is a website that hosts data science competition hosting. There are three major categories of competitions that they host:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;For our meeting on the 28th of August, one of our founding members, &lt;a href="https://www.linkedin.com/in/varun-saravanan-24b12b145/"&gt;Varun Saravanan&lt;/a&gt;, shared his Kaggle experience with us. I'll summarize &lt;a href="https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-08-28"&gt;his presentation&lt;/a&gt; here.&lt;/p&gt;
+&lt;h2&gt;What is Kaggle?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.kaggle.com/"&gt;Kaggle&lt;/a&gt; is a website that hosts data science competition hosting. There are three major categories of competitions that they host:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning&lt;/li&gt;
+&lt;li&gt;Research&lt;/li&gt;
+&lt;li&gt;Industry funded (Featured)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kaggle does not teach total beginners how to program, but if you already have some idea of how to write code, then you can teach yourself about machine learning algorithms by writing code on Kaggle.&lt;/p&gt;
+&lt;h2&gt;My Experience on Kaggle&lt;/h2&gt;
+&lt;p&gt;Varun worked with the following algorithms and datasets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Principal Components Analysis (a &lt;a href="http://scikit-learn.org/stable/modules/unsupervised_reduction.html"&gt;dimensionality reduction&lt;/a&gt; technique) and &lt;a href="http://scikit-learn.org/stable/modules/ensemble.html#forest"&gt;Random Forests&lt;/a&gt; on the &lt;a href="http://yann.lecun.com/exdb/mnist/"&gt;MNIST dataset&lt;/a&gt;: https://www.kaggle.com/zbpvarun/pca-random-forests&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://xgboost.readthedocs.io/en/latest/"&gt;XGBoost&lt;/a&gt; + &lt;a href="https://lightgbm.readthedocs.io/en/latest/"&gt;LightGBM&lt;/a&gt; on &lt;a href="https://www.kaggle.com/c/zillow-prize-1"&gt;Zillow housing prices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Neural Networks on &lt;a href="https://www.kaggle.com/c/cdiscount-image-classification-challenge"&gt;Cdiscount Image classification&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.kaggle.com/c/whale-categorization-playground"&gt;Humpback Whale Image Identification&lt;/a&gt; using bounding boxes and neural networks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Advantages of Kaggle&lt;/h2&gt;
+&lt;p&gt;Kaggle provides immense computational power through their servers. By using their site, you get access to state of the art machine learning and data analysis packages, pre-installed without compatibility issues. The company also creates incentives for collaboration, and has fostered an open and welcoming community that encourages helping each other to produce better algorithms and results. In addition, Kaggle is becoming a repository of vast, clean, and easy to work with datasets.&lt;/p&gt;
+&lt;h2&gt;Disadvantages of Kaggle&lt;/h2&gt;
+&lt;p&gt;Again: Kaggle's immense computational power and seamless preinstalled packages. If you haven't dealt with installation issues and limitations on your computational power, then there are limits on your real world knowledge. Kaggle also overemphasizes the machine learning part of data science, which is a minority part of the job. Lastly, as welcoming as the community is, competition culture has resulted in a lot of crowding.&lt;/p&gt;
+&lt;h2&gt;Other views on Kaggle&lt;/h2&gt;
+&lt;p&gt;Hearing from Varun was very helpful for other group members. It's also interesting to hear other people's points of view. So, last but not least, I'll put links to some articles I shared in our Slack team that I thought provided different perspectives:&lt;br&gt;
+How Kaggle is changing the way companies figure out solutions to their data analysis problems: &lt;a href="https://www.theatlantic.com/technology/archive/2013/04/how-kaggle-is-changing-how-we-work/274908/"&gt;https://www.theatlantic.com/technology/archive/2013/04/how-kaggle-is-changing-how-we-work/274908/&lt;/a&gt;&lt;br&gt;
+Recent piece from Kaggle Grandmaster Martin Hanze: &lt;a href="http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/"&gt;http://blog.kaggle.com/2018/06/19/tales-from-my-first-year-inside-the-head-of-a-recent-kaggle-addict/&lt;/a&gt;&lt;br&gt;
+A different take on Kaggle from Julia Evans, who is super awesome: &lt;a href="https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions/"&gt;https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions/&lt;/a&gt; (Check out her great zines too like How to be a Wizard: &lt;a href="https://jvns.ca/wizard-zine.pdf"&gt;https://jvns.ca/wizard-zine.pdf&lt;/a&gt;).&lt;/p&gt;</content></entry><entry><title>Where are Iranians in America? (And good Iranian food). Interactive visualization tutorial from Trent Ryan</title><link href="/where-are-iranians-in-america-and-good-iranian-food-interactive-visualization-tutorial-from-trent-ryan.html" rel="alternate"></link><published>2018-08-07T00:00:00+02:00</published><updated>2018-08-07T00:00:00+02:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-08-07:/where-are-iranians-in-america-and-good-iranian-food-interactive-visualization-tutorial-from-trent-ryan.html</id><summary type="html">&lt;p&gt;Yesterday our group got a very cool #dataviz tutorial from &lt;a href="https://trent.netlify.com/"&gt;Trent Ryan&lt;/a&gt;, a graduate student advised by &lt;a href="http://sociology.emory.edu/home/people/faculty/dowd-tim.html"&gt;Timothy Dowd&lt;/a&gt; in &lt;a href="http://sociology.emory.edu/home/index.html"&gt;Sociology at Emory&lt;/a&gt;. Trent walked us through using the &lt;a href="https://github.com/Leaflet/Leaflet"&gt;Leaflet library&lt;/a&gt;, for making interactive maps, together with the R package &lt;a href="https://github.com/walkerke/tidycensus"&gt;tidycensus&lt;/a&gt; that provides easy access to United States census data …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Yesterday our group got a very cool #dataviz tutorial from &lt;a href="https://trent.netlify.com/"&gt;Trent Ryan&lt;/a&gt;, a graduate student advised by &lt;a href="http://sociology.emory.edu/home/people/faculty/dowd-tim.html"&gt;Timothy Dowd&lt;/a&gt; in &lt;a href="http://sociology.emory.edu/home/index.html"&gt;Sociology at Emory&lt;/a&gt;. Trent walked us through using the &lt;a href="https://github.com/Leaflet/Leaflet"&gt;Leaflet library&lt;/a&gt;, for making interactive maps, together with the R package &lt;a href="https://github.com/walkerke/tidycensus"&gt;tidycensus&lt;/a&gt; that provides easy access to United States census data.&lt;/p&gt;
+&lt;p&gt;He put together a blog post to walk us through the tutorial. Since Trent is of Iranian descent, he was curious to see where Iranians are in the United States. This post contains cool visualizations, explains why you can only get dried sour cherries in California, and provides good evidence for why one of the best Persian restaurants (Rumi's) in Georgia is in Roswell.  &lt;/p&gt;
+&lt;p&gt;Go check it out!&lt;br&gt;
+&lt;a href="https://trent.netlify.com/tutorials/tidycensus.html"&gt;https://trent.netlify.com/tutorials/tidycensus.html&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Bonus links to things that came up during Trent's tutorial:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia Silge post that Trent based his tutorial on, "read this one because the code is very clean": &lt;a href="https://juliasilge.com/blog/using-tidycensus/"&gt;https://juliasilge.com/blog/using-tidycensus/&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;blog of Kyle Walker, developer of tidycensus, with "many good posts on GIS": &lt;a href="https://walkerke.github.io/"&gt;https://walkerke.github.io/&lt;/a&gt;  &lt;/li&gt;
+&lt;li&gt;Can we stay in Python (for its "data-wrangling strengths") but still get the benefits of Leaflet.js for interactive mapping? Claro que yes! There's a library called folium: &lt;a href="https://python-visualization.github.io/folium/"&gt;https://python-visualization.github.io/folium/&lt;/a&gt;  &lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>Quick and Easy Data Science Websites with Pelican and Github Pages</title><link href="/quick-and-easy-data-science-websites-with-pelican-and-github-pages.html" rel="alternate"></link><published>2018-06-27T00:00:00+02:00</published><updated>2018-06-27T00:00:00+02:00</updated><author><name>David Nicholson</name></author><id>tag:None,2018-06-27:/quick-and-easy-data-science-websites-with-pelican-and-github-pages.html</id><summary type="html">&lt;p&gt;At our last meeting, I gave a demo of how to make websites about what you're up to in data science. My demo followed the method used by astrophysicist and data scientist extraordinaire &lt;a href="https://jakevdp.github.io/"&gt;Jake Vanderplas&lt;/a&gt;. As he describes in a &lt;a href="https://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/"&gt;blog post&lt;/a&gt;, he now generates his site with the Python …&lt;/p&gt;</summary><content type="html">&lt;p&gt;At our last meeting, I gave a demo of how to make websites about what you're up to in data science. My demo followed the method used by astrophysicist and data scientist extraordinaire &lt;a href="https://jakevdp.github.io/"&gt;Jake Vanderplas&lt;/a&gt;. As he describes in a &lt;a href="https://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/"&gt;blog post&lt;/a&gt;, he now generates his site with the Python library &lt;a href="https://blog.getpelican.com/"&gt;Pelican&lt;/a&gt;. I'll walk you through his approach step-by-step below.&lt;br&gt;
+Another nice feature of Jake's approach is that it lets you avoid the hassle of buying and setting up a space on the web, by taking advantage of &lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;. Github provides this space to host sites to developers for free. Many people in the data science and open source software community make  Github Pages route: nuclear physicist &lt;a href="http://katyhuff.github.io/"&gt;Katy Huff&lt;/a&gt;, bioinformaticist &lt;a href="https://nellev.github.io/"&gt;Nelle Varoquaux&lt;/a&gt;, neuroscientist &lt;a href="https://cyrille.rossant.net/"&gt;Cyrille Rosant&lt;/a&gt;, our own &lt;a href="http://evadyer.github.io/"&gt;Eva Dyer at Georgia Tech&lt;/a&gt;, and even, uh, &lt;a href="https://nickledave.github.io/"&gt;me&lt;/a&gt; (shameless plug, sorry). To be meta, I am now writing a blog post about my demo of how to make a blog. And to be even more meta, I made a website for our group by following my own demo. This blog post includes, as a bonus, stuff I remembered and/or figured out as I went through the process of setting up this site.&lt;/p&gt;
+&lt;h2&gt;High-level overview&lt;/h2&gt;
+&lt;p&gt;Here's a high-level overview of how this will work, in list form.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;follow instructions for set up&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;write your posts&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;follow instructions to update after you write post&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;tweet out your blog posts and hope someone reads them&lt;/li&gt;
+&lt;li&gt;repeat steps 2 through 4 as needed&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;li&gt;become a famous data scientist (sexiest job, 2014-present)&lt;/li&gt;
+&lt;li&gt;publish a book and / or start a podcast, e.g. "Make Your Own Data Science Playing Cards From Scratch"&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Some of the items in the list are more tongue-in-cheek then others.&lt;/p&gt;
+&lt;h2&gt;Instructions for set up&lt;/h2&gt;
+&lt;p&gt;Apparently I like lists. Here's another! I'll give detail for each step below. Note again that my instructions here are based on the Jake Vanderplas approach, as he outlines in &lt;a href="https://jakevdp.github.io/blog/2013/05/07/migrating-from-octopress-to-pelican/"&gt;this blog post&lt;/a&gt; and in the README for the source code for his blog, which he has helpfully made public in a &lt;a href="https://github.com/jakevdp/jakevdp.github.io-source"&gt;Github repository&lt;/a&gt;. (For a slightly different approach, check out this &lt;a href="https://cyrille.rossant.net/pelican-github/"&gt;walkthrough&lt;/a&gt; by Cyrille Rossant.)&lt;/p&gt;
+&lt;p&gt;1. make sure you have git installed for version control, and so you can take advantage of Github Pages&lt;br&gt;
+2. make a virtual environment for the software libraries you'll use to blog&lt;br&gt;
+  - pelican: a static website generator written in Python&lt;br&gt;
+  - jupyter to create notebooks&lt;br&gt;
+  - ghp-import: a script that lets you use Github Pages to host your site by doing all the work for you&lt;br&gt;
+  - some other tools that make it easy to use pelican and jupyter (Markdown, pelican-plugins)&lt;br&gt;
+3. set up a folder that will contain your blog, and initialize a git repository inside it&lt;br&gt;
+4. use &lt;code&gt;pelican-quickstart&lt;/code&gt; command to quickly start a project (your blog)  &lt;/p&gt;
+&lt;p&gt;(None of the items in that list were tongue-in-cheek.)&lt;br&gt;
+Okay, let's walk through each step in more detail.  &lt;/p&gt;
+&lt;p&gt;1. make sure you have git installed (using conda) for version control, and to work with a Github account so you can take advantage of Github pages&lt;/p&gt;
+&lt;p&gt;In a shell, type:&lt;br&gt;
+&lt;code&gt;$ conda install git&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;(Note that on Windows, instead of using &lt;code&gt;terminal&lt;/code&gt; you'd use &lt;code&gt;cmd.exe&lt;/code&gt; and the prompt would look like this: &lt;code&gt;&amp;gt; conda install git&lt;/code&gt;. It's the same thing, I promise.)&lt;/p&gt;
+&lt;p&gt;There's many ways you can install git. Here I'm showing how you could do it with conda.
+&lt;code&gt;conda&lt;/code&gt; is a command-line tool that can install libraries in multiple languages and manage virtual environments (more on what that means in a second). It's provided as part of the Anaconda platform for scientific computing, which I highly recommend you use if you do anything (data) sciencey. (Link to download in the &lt;a id="footnote-1-ref" href="#footnote-1" title="link to footnote 1" style="display: inline"&gt;"helpful links"&lt;/a&gt; section.)&lt;/p&gt;
+&lt;p&gt;2. make an environment (using conda) ...  &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ conda create -n pelican-blog &lt;span class="nv"&gt;python&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;.6 jupyter notebook
+$ &lt;span class="nb"&gt;source&lt;/span&gt; activate pelican-blog
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It's good practice to isolate the libraries you use for any coding project in a virtual environment. This helps reproducibility (because you know exactly which libraries the code depends on) and helps you avoid "dependency hell". I won't go into detail about dependencies or virtual environments here, but a good example is in &lt;a id="footnote-2-ref" href="#footnote-2" title="link to footnote 2" style="display: inline"&gt;"helpful links"&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2. ... and install the software libraries you'll use (with pip)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;(pelican-blog) $ pip install pelican Markdown ghp-import&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;3. create a directory that will contain your blog, and initialize a git repository inside it&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;(pelican-blog) $ mkdir your-blog
+(pelican-blog) $ cd your-blog
+(pelican-blog) $ git init
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Below are a couple more steps you need to execute &lt;em&gt;inside&lt;/em&gt; the directory after you create it, although they fall under the category of "install the software libraries you'll use"&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;(pelican-blog) $ git submodule add https://github.com/danielfrg/pelican-ipynb
+(pelican-blog) $ git submodule add https://github.com/getpelican/pelican-plugins
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;What you're doing here is some git voodoo that, as I understand it, makes these plugins part of your repository, but in such a way that you could still pull from them if their maintainers made some changes to the code.
+Recent versions of git should get the actual code from these repos off Github and put it inside your local copy. But you might need to update your submodules, for example if you copy your own blog's repo off your Github profile onto another computer besides the one where you started the repo. In that case git doesn't pull in the code automatically so you need to execute:
+&lt;code&gt;git submodule update --init --recursive&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;4. use &lt;code&gt;pelican-quickstart&lt;/code&gt; command to quickly start a project (your blog)&lt;br&gt;
+&lt;code&gt;(pelican-blog) $ pelican-quickstart&lt;/code&gt;
+Pelican will ask you a series questions about your site. You can safely accept all the defaults by just hitting enter--everything in this tutorial should work with those defaults.&lt;/p&gt;
+&lt;h2&gt;write your posts&lt;/h2&gt;
+&lt;p&gt;I like to write in Markdown, which looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image of Markdown example" src="/images/markdown_example.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;To be totally precise, I like to write in syntax that can be parsed by the Markdown library, which converts text to the html understood by web browsers. (You can read more about Markdown in &lt;a id="footnote-3-ref" href="#footnote-3" title="link to footnote 3" style="display: inline"&gt;"helpful links"&lt;/a&gt;). Hardcore Pythonistas using Pelican also have the option of writing in RestructuredText, a language created for Python docs.&lt;/p&gt;
+&lt;p&gt;To preview what you've written, you can do the following:&lt;br&gt;
+1. use pelican to convert your Markdown post into html that browsers know how to read
+&lt;code&gt;(pelican-blog) $ pelican content -o output -s pelicanconf.py&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In the line above, you call &lt;code&gt;pelican&lt;/code&gt; and tell it to run on the folder &lt;code&gt;content&lt;/code&gt;. The flag &lt;code&gt;-o&lt;/code&gt; (for 'output') tells Pelican what directory to put the output in (here named &lt;code&gt;output&lt;/code&gt;), and the flag &lt;code&gt;-s&lt;/code&gt; (for 'settings') tells Pelican which file contains the settings (in this case the &lt;code&gt;pelicanconf.py&lt;/code&gt; file--the &lt;code&gt;conf&lt;/code&gt; is for 'configuration').&lt;/p&gt;
+&lt;p&gt;After you execute that command in the terminal, Pelican will tell you something like:&lt;br&gt;
+&lt;code&gt;Done: Processed 1 article, 0 drafts, 0 pages and 0 hidden pages in 1.94 seconds.&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Ok, cool.&lt;br&gt;
+So what's your blog gonna look like on the web?&lt;br&gt;
+Handily, Python comes with a bare-bones server built in so you can check it out yourself.  &lt;/p&gt;
+&lt;p&gt;2. Use the built-in Python server to serve your blog locally (just on your machine):
+Run the following in the terminal:  &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;(pelican-blog) $ cd output
+(pelican-blog) $ python -m http.server 
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;It will spin up the server, which you will know because the terminal will give you a bunch of talkback like so:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /quick-and-easy-data-science-websites.html HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/css/bootstrap.spacelab.min.css HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/css/pygments/native.css HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/css/font-awesome.min.css HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/css/style.css HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/js/jquery.min.js HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/js/bootstrap.min.js HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/js/respond.min.js HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /theme/js/bodypadding.js HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [29/Jun/2018 10:11:24] &amp;quot;GET /images/avatar.jpg HTTP/1.1&amp;quot; 200 -
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Once the server is up in running, open your browser, and in the address bar enter: &lt;code&gt;localhost:8000&lt;/code&gt;&lt;br&gt;
+where 8000 is the default port to which the Python server routes your site.
+You should be able to navigate through your site.&lt;/p&gt;
+&lt;h3&gt;Instructions to update after you write your post&lt;/h3&gt;
+&lt;p&gt;So you'll iterate through through those two steps a few times until you get your site and post how you want them. Now how do you actually get it on the web?&lt;/p&gt;
+&lt;p&gt;1. use pelican again to output the final version of your site&lt;br&gt;
+&lt;code&gt;(pelican-blog) $ pelican content -o output -s pelicanconf.py&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2. use ghp-import to publish your Pelican site on Github, as either a Project Page or a User Page&lt;br&gt;
+(this code snippet stolen from the &lt;a id="footnote-4-ref" href="#footnote-4" title="link to footnote 4" style="display: inline"&gt;Pelican docs&lt;/a&gt;).&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pelican&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;blog&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;ghp&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;output&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pelican&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;blog&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;push&lt;/span&gt; &lt;span class="n"&gt;origin&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;For a User Page, you need to "push" the content from the output directory to the master branch of a repository named &lt;code&gt;Username.github.io&lt;/code&gt;. So you should make one on Github, replacing &lt;code&gt;Username&lt;/code&gt; with your actual Github user name. Github automagically converts a repository with the name formatted that way into a website. Step-by-step instructions for this on the command line are below.&lt;/p&gt;
+&lt;p&gt;But first, note that this means you need a separate repository for your source code!&lt;br&gt;
+For example we have the source code for the group's blog in:&lt;br&gt;
+https://github.com/Data-Science-for-Scientists-ATL/DataSci4ScienceATL-blog-source&lt;br&gt;
+And the "output" gets pushed to a different repository:&lt;br&gt;
+https://github.com/Data-Science-for-Scientists-ATL/Data-Science-for-Scientists-ATL.github.io  &lt;/p&gt;
+&lt;p&gt;so once you have set up the separate repository for your User Page, you'd push to it like so:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pelican&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;blog&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;pelican&lt;/span&gt; &lt;span class="n"&gt;content&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;o&lt;/span&gt; &lt;span class="n"&gt;output&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;s&lt;/span&gt; &lt;span class="n"&gt;pelicanconf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;py&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pelican&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;blog&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;ghp&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;output&lt;/span&gt;
+&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;pelican&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;blog&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;push&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;//&lt;/span&gt;&lt;span class="n"&gt;github&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Data&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Science&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Scientists&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;ATL&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;Data&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Science&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Scientists&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;ATL&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;github&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;io&lt;/span&gt; &lt;span class="n"&gt;gh&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pages&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;master&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;In the last line above, you are using git to &lt;em&gt;push&lt;/em&gt; to your separate repository, specifically you're pushing the contents of the &lt;code&gt;gh-pages&lt;/code&gt; branch of your &lt;strong&gt;source&lt;/strong&gt; repository &lt;strong&gt;to&lt;/strong&gt; the &lt;code&gt;master&lt;/code&gt; branch of your &lt;code&gt;Username.github.io&lt;/code&gt; repository. That's why at the end of the line you write &lt;code&gt;gh-pages:master&lt;/code&gt;. Explaining the concept of git branches is beyond the scope of what I feel like writing right now :) but you can read about it in the &lt;a id="footnote-5-ref" href="#footnote-5" title="link to footnote 5"&gt;"helpful links"&lt;/a&gt; section at the end of this post.&lt;/p&gt;
+&lt;p&gt;if pushing fails, e.g. because you already have content in the repository, you can force it with the &lt;code&gt;-f&lt;/code&gt; flag. Be warned that this will overwrite everything:
+&lt;code&gt;(pelican-blog) $ git push -f https://github.com/Data-Science-for-Scientists-ATL/Data-Science-for-Scientists-ATL.github.io gh-pages:master&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Stylin'&lt;/h2&gt;
+&lt;p&gt;Contributors to Pelican have developed many themes: http://pelicanthemes.com/&lt;br&gt;
+One thing I didn't address much in my demo was how to use them.
+A description of my opinionated method follows; for a less partisan take, you can read the &lt;a href="https://github.com/getpelican/pelican-themes#using-themes"&gt;docs&lt;/a&gt;.&lt;br&gt;
+I always find the use of themes confusing in Pelican. It comes with a tool for managing them, &lt;a href="http://docs.getpelican.com/en/stable/pelican-themes.html"&gt;&lt;code&gt;pelican-themes&lt;/code&gt;&lt;/a&gt;, that basically copies them to your computer. You then change the settings of your project to use a certain theme, but the files belonging to the theme are not of any one project.&lt;br&gt;
+I have a feeling that almost everyone modifies themes to some extent, so what would seem more natural to me would be a tool that would copy the files of one individual theme into your project, in a themes subdirectory, so that you could then go ahead and modify it.&lt;br&gt;
+But currently there's no built-in tool to do that, as I remembered after staring at the docs, so I did what &lt;a href="http://docs.getpelican.com/en/stable/themes.html"&gt;some other part of the docs&lt;/a&gt; suggests instead, which was "create" one by modify an extant theme. Because all the Pelican themes are in &lt;a href="https://github.com/getpelican/pelican-themes"&gt;one repository&lt;/a&gt;, you will have to copy all of them to some other place on your computer, and then copy one of the themes from that place to your project folder.&lt;br&gt;
+I went with &lt;code&gt;pelican-bootstrap3&lt;/code&gt; because it has a lot of bells and whistles. I based my decision to use &lt;code&gt;pelican-bootstrap3&lt;/code&gt; in part on this handy blog post from Christine Doig that explains in detail how she modified her theme. Lots of good ideas there:
+https://chdoig.github.io/create-pelican-blog.html&lt;/p&gt;
+&lt;p&gt;If you also use &lt;code&gt;pelican-bootstrap3&lt;/code&gt;, I very much recommmend actually reading the README.md&lt;br&gt;
+In particular note that you need to add the following lines to your &lt;code&gt;pelicanconf.py&lt;/code&gt; file:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;PLUGIN_PATHS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;path/to/plugins&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;PLUGINS&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;i18n_subsites&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="p"&gt;]&lt;/span&gt;
+&lt;span class="n"&gt;JINJA_ENVIRONMENT&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="s1"&gt;&amp;#39;extensions&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;jinja2.ext.i18n&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;],&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;If you don't do this, you will get a very helpful error message:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;CRITICAL&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt; &lt;span class="n"&gt;undefinedError&lt;/span&gt; &lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;_&amp;#39;&lt;/span&gt; &lt;span class="k"&gt;is&lt;/span&gt; &lt;span class="kc"&gt;undefined&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;(Apparently, I am not the first person to experience this: https://github.com/getpelican/pelican-themes/issues/482)&lt;/p&gt;
+&lt;h2&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Okay, now you've read a blog post about the meeting of our data science group yesterday about how you set up a your own data science blog, based on a bunch of data science blogs! Now you can set up your own blog and blog about data science blogging! Please let us know when your book comes out and look for much less meta posts from the future, unless this is the only post we ever write.&lt;/p&gt;
+&lt;h2&gt;Helpful links + more reading&lt;/h2&gt;
+&lt;p id="footnote-1"&gt;
+    [1] get Anaconda here, with the conda command-line tool for managing packages and installing libraries (including many scientific libraries): https://www.anaconda.com/download/1. Here is my first footnote.
+      &lt;a href="#footnote-1-ref" title="return to text"&gt;&amp;#8617;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p id="footnote-2"&gt;
+    [2] good example of why you would use virtual environments: https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
+&lt;a href="#footnote-2-ref" title="return to text"&gt;&amp;#8617;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p id="footnote-3"&gt;
+    [3]all about Markdown: https://daringfireball.net/projects/markdown/
+&lt;a href="#footnote-3-ref" title="return to text"&gt;&amp;#8617;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p id="footnote-4"&gt;
+    [4] using ghp-import to publish to Github (from Pelican docs): http://docs.getpelican.com/en/stable/tips.html#publishing-to-github
+&lt;a href="#footnote-4-ref" title="return to text"&gt;&amp;#8617;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p id="footnote-5"&gt;
+    [5] branching: what is it? https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+&lt;a href="#footnote-5-ref" title="return to text"&gt;&amp;#8617;&lt;/a&gt;
+&lt;/p&gt;</content></entry><entry><title>Transitioning from Academia to Industry with Jeff Kolve from eHire</title><link href="/transitioning-from-academia-to-industry-with-jeff-kolve-from-ehire.html" rel="alternate"></link><published>2018-06-04T00:00:00+02:00</published><updated>2018-06-04T00:00:00+02:00</updated><author><name>Crystal Grant</name></author><id>tag:None,2018-06-04:/transitioning-from-academia-to-industry-with-jeff-kolve-from-ehire.html</id><summary type="html">&lt;h2&gt;I'm in academia, what do I need to know about data science in industry?&lt;/h2&gt;
+&lt;p&gt;Early this summer, Laney’s budding Data Science for Scientists organization held a meeting to give Ph.D. students tips on getting hired for a Data Science position. In a presentation led by &lt;a href="https://www.linkedin.com/in/jeff-kolve-01023424/"&gt;Jeff Kolve&lt;/a&gt;, senior …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;I'm in academia, what do I need to know about data science in industry?&lt;/h2&gt;
+&lt;p&gt;Early this summer, Laney’s budding Data Science for Scientists organization held a meeting to give Ph.D. students tips on getting hired for a Data Science position. In a presentation led by &lt;a href="https://www.linkedin.com/in/jeff-kolve-01023424/"&gt;Jeff Kolve&lt;/a&gt;, senior technical recruiter at &lt;a href="https://www.linkedin.com/company/ehire/"&gt;eHire&lt;/a&gt;, we learned about: converting academic CVs to resumes for industry, questions to ask during interviews, and different kinds of positions available within the nebulous field of Data Science. Jeff mentioned that his company eHire works to find data scientists and match them with companies, mostly centered in Atlanta.&lt;/p&gt;
+&lt;h2&gt;responsibilities of a data scientist&lt;/h2&gt;
+&lt;p&gt;As with many talks on Data Science, we began with the responsibilities of a data scientist as well as the types of skills needed to succeed. Jeff mentioned the four main responsibilities include: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pure statistics and analytics&lt;/li&gt;
+&lt;li&gt;Data Architecture and Data Engineering&lt;/li&gt;
+&lt;li&gt;Data Visualization&lt;/li&gt;
+&lt;li&gt;Software Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;He emphasized that for aspiring Data Scientists, it’s important to be able to master many of these skills--with the more of these skills we have in our toolbelt the more employable we will be and the more independently we will be able to work within their company.&lt;br&gt;
+More and more companies and other types of employers are recognizing the importance of using data to detect and respond to consumer demands, project change, develop new products, and more. "Companies want to be able to say they’re doing data science and advanced analytics,” Jeff asserted. For some companies, the role of Data Scientists will be very cleanly defined with a specific role of the four necessary skill mentioned earlier; whereas, for a smaller company, a Data Scientists may have to be comfortable in all of these roles.&lt;/p&gt;
+&lt;h2&gt;interviewing&lt;/h2&gt;
+&lt;p&gt;Jeff recommended when interviewing to directly ask a company how do THEY define data science (meaning how much of the four skills above do they expect you to know?). He also recommended being specific when answering what it is you want to do and what you’re good at. He strongly recommended that, while flexibility is important in the interview process, be sure to state your goals and make it clear what type of role you want to have within the company and what type of work you want to do. 
+Among some advice that Jeff gave as part of the talk, he suggested asking why the position is open (to understand rates of turnover in the company and potential reasons for it), researching the interviewers beforehand (to know the level of technical detail that you may go into), and keeping track of the types of interview questions you were asked and how you answered them (so that you can continue to prepare for interviews). A particularly intriguing suggestion made was to ask the interviewer at the end of the interview &lt;strong&gt;what&lt;/strong&gt; specific concerns they have about you as a candidate. Notice that you do not phrase this as a "yes or no" answer! This allows you to address their concerns in the interview. As Jeff explained, if these concerns about you as a candidate are not addressed by you in-person in the interview, they may end up being a factor in not getting a position.&lt;/p&gt;
+&lt;h2&gt;more info straight from Jeff&lt;/h2&gt;
+&lt;p&gt;Overall, the outlook for an aspiring Data Scientist is bright, with the more experiences acquired and tools in your toolkit increasing your likelihood of securing a position! For more detail, including details on converting your C.V. to a resume, and quotes from people in the Atlanta data science community, check out the presentation that Jeff kindly shared with us: &lt;a href="https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-04"&gt;https://github.com/Data-Science-for-Scientists-ATL/meeting-2018-06-04&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
